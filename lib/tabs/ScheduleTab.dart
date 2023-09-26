@@ -14,16 +14,16 @@ enum FilterStatus { Upcoming, Complete, Cancel }
 List<Map> schedules = [
   {
     'img': 'assets/doctor01.jpeg',
-    'doctorName': 'Dr. Anastasya Syahid',
-    'doctorTitle': 'Dental Specialist',
+    'doctorName': 'Dr. Bhavin Surti',
+    'doctorTitle': 'Skin Specialist',
     'reservedDate': 'Monday, Aug 29',
     'reservedTime': '11:00 - 12:00',
     'status': FilterStatus.Upcoming
   },
   {
     'img': 'assets/doctor02.png',
-    'doctorName': 'Dr. Mauldya Imran',
-    'doctorTitle': 'Skin Specialist',
+    'doctorName': 'Dr. Aslam Jha',
+    'doctorTitle': 'M.B.B.S.',
     'reservedDate': 'Monday, Sep 29',
     'reservedTime': '11:00 - 12:00',
     'status': FilterStatus.Upcoming

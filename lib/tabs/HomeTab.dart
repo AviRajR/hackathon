@@ -468,7 +468,7 @@ class UserIntro extends StatelessWidget {
               style: TextStyle(fontWeight: FontWeight.w500),
             ),
             Text(
-              'Brad King 👋',
+              'Avirajsinh Raj 👋',
               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
             ),
           ],
